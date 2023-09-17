@@ -4,31 +4,43 @@ My personal dygma raise layer setup with a focus on ambidextrous programming sho
 
 ## Layers
 
-[Layer 0](layer-0.json) — Windows Typing
+[Windows/Linux Typing](configs/windows-linux-typing.json) and [Macos Typing](configs/macos-typing.json)
 
-- caps and escape keys have dual function ctrl modifiers
-- left-side modifiers have dual-function home/end keys
-- arrow keys replace right-side modifiers
-- thumb clusters have space, backspace, delete, and enter/layer (ambidextrous)
+- `Escape` replaces `Backspace` via top-right corner
+- `Tab` and `\|` keys have dual-function `Ctrl` `Modifier` keys (ambidextrous)
+- `Layer` Windows/Linux / Macos keyboard swap button replaces `Enter` key
+- Right-side `Alt` and left-side `Function` keys are dual function `Home`/`End` superkeys (ambidextrous)
+- `Arrow` keys replace right-side `Modifier` keys
+- Thumb clusters have `Space`, `Backspace`, `Delete`, and `Enter` keys (ambidextrous)
+- `Enter` thumb cluster keys are dual function `Layer` Shortcut keys (ambidextrous)
 
-![layer 0](img/layer-0.png)
+![Windows/Linux Typing](img/windows-linux-typing.png)
 
-[Layer 1](layer-1.json) — Shortcuts
+![Macos Typing](img/macos-typing.png)
+
+[Windows/Linux Shortcuts](configs/windows-linux-shortcuts.json) and [Macos Shortcuts](configs/macos-shortcuts.json)
 
 - number row - media shortcuts
 - upper row - Chrome/browser shortcuts (ambidextrous)
-- middle rows - VSCode/IDE shortcuts (ambidextrous)
-- lower rows - page up/page down (ambidextrous)
+- middle row - VSCode/IDE shortcuts (ambidextrous)
+- middle row `Layer` keys enter into Num and F keys (ambidextrous)
+- lower row - Chrome/browser shortcuts (ambidextrous)
 
-![layer 1](img/layer-1.png)
+![Windows/Linux Shortcuts](img/windows-linux-shortcuts.png)
 
-[Layer 2](layer-2.json) — Everything Else
+![Macos Shortcuts](img/macos-shortcuts.png)
 
-- number row - Function keys
-- left side - Utility keys
-- right side - Number pad keys
+[Windows/Linux Shortcuts](configs/windows-linux-num-f-keys.json) and [Macos Shortcuts](configs/macos-num-f-keys.json)
 
-![layer 2](img/layer-2.png)
+- number row - `Function` keys
+- left-side typing area - `Numpad` keys
+- right-side typing area - `Numpad` keys - optimal for right-side (`Numpad` keys on right, `Arrow` keys on left)
+- left side - `Arrow` keys
+- right side - `Modifier` keys
+
+![Windows/Linux Num and F Keys](img/windows-linux-num-f-keys.png)
+
+![Macos Num and F Keys](img/macos-num-f-keys.png)
 
 ## License
 

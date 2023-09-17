@@ -2,27 +2,27 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "Main"
+      "name": "windows-linux-typing"
     },
     {
       "id": 1,
-      "name": "Shortcuts"
+      "name": "windows-linux-shortcuts"
     },
     {
       "id": 2,
-      "name": "AltLayout"
+      "name": "windows-linux-num-f-keys"
     },
     {
       "id": 3,
-      "name": "L4"
+      "name": "macos-typing"
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": "macos-shortcuts"
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "macos-num-f-keys"
     },
     {
       "id": 6,
@@ -79,9 +79,10 @@
       "verbose": "STOP"
     },
     {
-      "keyCode": 22713,
-      "label": "Shuff.",
-      "extraLabel": ""
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 65535,
@@ -142,10 +143,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 275,
+      "label": "P",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 282,
@@ -200,10 +200,9 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 275,
+      "label": "P",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 0,
@@ -218,16 +217,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17494,
+      "label": "3",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17494,
+      "label": "3",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 260,
@@ -406,15 +403,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2316,
+      "label": "I",
+      "extraLabel": "C+S+"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 53980,
+      "label": "Windo",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 0,
@@ -429,9 +425,16 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -446,26 +449,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
-    },
-    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
       "verbose": "Disabled"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 53980,
+      "label": "Windo",
+      "extraLabel": "SUPER"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 2316,
+      "label": "I",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 0,
@@ -493,21 +490,21 @@
     5,
     1,
     0,
-    8,
     12,
     12,
-    0,
-    4,
+    6,
     4,
     0,
-    12,
+    0,
+    4,
+    2,
     3,
     1,
     3,
     6,
     6,
     1,
-    8,
+    4,
     4,
     11,
     8,
@@ -515,10 +512,10 @@
     4,
     12,
     12,
+    5,
+    6,
     12,
-    0,
     12,
-    0,
     12,
     12,
     6,
@@ -527,14 +524,14 @@
     12,
     5,
     5,
+    2,
     12,
     12,
-    12,
-    12,
-    0,
-    4,
+    6,
     4,
     0,
+    0,
+    4,
     12,
     12,
     3,
@@ -551,10 +548,10 @@
     12,
     12,
     12,
+    5,
+    6,
     12,
-    0,
     12,
-    0,
     12,
     8,
     8,

@@ -2,27 +2,27 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "Main"
+      "name": "windows-linux-typing"
     },
     {
       "id": 1,
-      "name": "Shortcuts"
+      "name": "windows-linux-shortcuts"
     },
     {
       "id": 2,
-      "name": "AltLayout"
+      "name": "windows-linux-num-f-keys"
     },
     {
       "id": 3,
-      "name": "L4"
+      "name": "macos-typing"
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": "macos-shortcuts"
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "macos-num-f-keys"
     },
     {
       "id": 6,
@@ -107,13 +107,13 @@
       "label": "="
     },
     {
-      "keyCode": 17494,
-      "label": "3",
-      "extraLabel": "LOCK"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 49980,
+      "label": "TAB",
+      "extraLabel": "GUI/"
     },
     {
       "keyCode": 20,
@@ -176,14 +176,14 @@
       "label": "]"
     },
     {
-      "keyCode": 49210,
-      "label": "ESC",
-      "extraLabel": "CTRL/"
+      "keyCode": 17492,
+      "label": "1",
+      "extraLabel": "LOCK"
     },
     {
-      "keyCode": 49226,
+      "keyCode": 57,
       "label": "⇪",
-      "extraLabel": "CTRL/"
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 4,
@@ -248,8 +248,9 @@
       "label": "'"
     },
     {
-      "keyCode": 49,
-      "label": "\\"
+      "keyCode": 49986,
+      "label": "\\",
+      "extraLabel": "GUI/"
     },
     {
       "keyCode": 225,
@@ -325,19 +326,20 @@
       "label": "↑"
     },
     {
-      "keyCode": 49243,
-      "label": "HOME",
-      "extraLabel": "CTRL/"
-    },
-    {
       "keyCode": 227,
       "label": "LEFT WIN",
       "verbose": "Left Windows"
     },
     {
-      "keyCode": 49758,
-      "label": "END",
-      "extraLabel": "ALT/"
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 53983,
+      "label": "Macos",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 42,
@@ -359,14 +361,14 @@
       "label": "DEL"
     },
     {
-      "keyCode": 51514,
+      "keyCode": 52282,
       "label": "ENTER",
-      "extraLabel": "L#2/"
+      "extraLabel": "L#5/"
     },
     {
-      "keyCode": 51514,
+      "keyCode": 52282,
       "label": "ENTER",
-      "extraLabel": "L#2/"
+      "extraLabel": "L#5/"
     },
     {
       "keyCode": 76,
@@ -382,8 +384,8 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 53980,
-      "label": "Reloa",
+      "keyCode": 53983,
+      "label": "Macos",
       "extraLabel": "SUPER"
     },
     {
@@ -407,13 +409,13 @@
     4,
     4,
     4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
     6,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
     4,
     4,
     4,
@@ -426,20 +428,13 @@
     4,
     4,
     4,
-    10,
     4,
-    10,
+    4,
+    6,
     5,
     1,
     11,
     2,
-    2,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
     6,
     4,
     4,
@@ -447,8 +442,15 @@
     4,
     4,
     4,
+    9,
     4,
     4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    6,
     4,
     4,
     4,
@@ -469,69 +471,69 @@
     1,
     11,
     2,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
   ],
   "palette": [
     {
