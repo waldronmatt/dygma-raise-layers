@@ -1,6 +1,6 @@
 # dygma-raise-layers
 
-My personal dygma raise layer setup with a focus on ambidextrous programming shortcuts and light terminal work.
+My personal dygma raise layer setup with a focus on keyboard OS consistency, ambidextrous programming, and light terminal work.
 
 ## Layers
 
@@ -10,7 +10,7 @@ My personal dygma raise layer setup with a focus on ambidextrous programming sho
 
 - `Escape` replaces `Backspace` via top-right corner
 - `Tab` and `\|` keys have dual-function `Ctrl` `Modifier` keys (ambidextrous)
-- `Layer` Windows/Linux / Macos keyboard swap key replaces `Enter` key
+- `Layer` [Windows/Linux / Macos typing](#typing) keyboard swap key replaces `Enter` key
 - Left-side `Alt` and right-side `Function` keys are dual function `Home`/`End` superkeys (ambidextrous)
 - `Arrow` keys replace right-side `Modifier` keys
 - Thumb clusters have `Space`, `Backspace`, `Delete`, and `Enter` keys (ambidextrous)
