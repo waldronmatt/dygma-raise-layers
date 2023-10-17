@@ -247,9 +247,9 @@
       "extraLabel": "G+"
     },
     {
-      "keyCode": 4107,
-      "label": "H",
-      "extraLabel": "G+"
+      "keyCode": 4617,
+      "label": "F",
+      "extraLabel": "A+G+"
     },
     {
       "keyCode": 65535,
@@ -270,9 +270,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 4107,
-      "label": "H",
-      "extraLabel": "G+"
+      "keyCode": 4617,
+      "label": "F",
+      "extraLabel": "A+G+"
     },
     {
       "keyCode": 4105,
