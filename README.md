@@ -49,6 +49,10 @@ My personal dygma raise layer setup with a focus on keyboard OS consistency, amb
 
 ![Macos Num and F Keys](img/macos-num-f-keys.png)
 
+## Window Snapping
+
+I use the [hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) to enable windows snapping on macos. Code can be found [here](src/init.lua).
+
 ## License
 
 MIT
