@@ -51,7 +51,7 @@ My personal dygma raise layer setup with a focus on keyboard OS consistency, amb
 
 ## Window Snapping
 
-I use the [hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) to enable windows snapping on macos. Code can be found [here](src/init.lua).
+I use [hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) to enable windows snapping on macos. Code can be found [here](src/init.lua).
 
 ## License
 
